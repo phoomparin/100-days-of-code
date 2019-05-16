@@ -34,7 +34,7 @@
 
 1. Updated this **#100DaysOfCode** repository, and wrote my first log for yesterday 📙
 
-2. Initialized EventDuty Repository on GitHub, using Parcel and React, and put it on Netlify and updated Cloudflare DNS record. 🌤️
+2. Initialized EventDuty Repository on GitHub using Parcel and React, and put it on Netlify and updated Cloudflare DNS record. 🌤️
 
 3. Updated README.md on my Git Garden project (Wording changes from the PRs that I received from @Ryan-Willpower) 📝
 
