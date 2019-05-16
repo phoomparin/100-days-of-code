@@ -10,7 +10,7 @@
 
 ## Additional Rules
 
-1. I will post about my progress every day -> using the hashtag #100DaysOfCode on facebook. (My twitter is protected for sanity reasons.)
+1. I will post about my progress every day -> using the hashtag #100DaysOfCode on both Facebook and Twitter.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
