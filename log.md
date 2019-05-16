@@ -1,30 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: Wednesday - May 15, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+1. Implement a simple state mechanism in C++ to control built-in Arduino LED via serial port, using PlatformIO as build tool and CLion as IDE. (11:13 - 12:53, 1 hour 39 minutes)
 
-**Link to work:** [Calculator App](http://www.example.com)
+2. Use C# with JSON.Net and the Rider IDE to make a HTTP request to mockapi.io and parse the JSON, using both dynamic and structured method. (1 hour; 15:30 - 16:00 and 17:20 - 17:48)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+3. Use Lombok and Kotlin's Gradle DSL in IntelliJ IDEA to reduce Java's boilerplates. (16:20 - 17:19, 59 minutes 11 seconds)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- C# and .NET Core is pretty easy to work with.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- C++ is not that difficult; pretty sweet actually! Gotta try doing more hardware stuff with C++ and ESP32/ESP8266 boards soon. (and buy more stuff, heheh)
 
+- Lombok is a lifesaver when working with Java.
 
-### Day 1: June 27, Monday
+- Gotta try Kotlin and its Gradle DSL more. Kotlin seems like a super nice language to work with; not as fancy as Scala tho.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+- JetBrains' IDE is a godsend!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://github.com/phoomparin/arduino-lab
+2. https://github.com/phoomparin/hello-csharp
+3. https://github.com/phoomparin/java-lab
+
+## Day 1: Thursday - May 16, 2019
+
+**Today's Progress**: Updated this **#100DaysOfCode** repository, and wrote my first log for yesterday :)
+
+**Thoughts**: [Pending]
+
+**Link(s) to work**: [Pending]
