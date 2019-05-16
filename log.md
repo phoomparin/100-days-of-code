@@ -30,8 +30,36 @@
 
 ## Day 1: Thursday - May 16, 2019
 
-**Today's Progress**: Updated this **#100DaysOfCode** repository, and wrote my first log for yesterday :)
+**Today's Progress**:
 
-**Thoughts**: [Pending]
+1. Updated this **#100DaysOfCode** repository, and wrote my first log for yesterday 📙
 
-**Link(s) to work**: [Pending]
+2. Initialized EventDuty Repository on GitHub, using Parcel and React, and put it on Netlify and updated Cloudflare DNS record. 🌤️
+
+3. Updated README.md on my Git Garden project (Wording changes from the PRs that I received from @Ryan-Willpower) 📝
+
+**Thoughts**:
+
+We're off to a great start! 💖
+
+Today is more of a planning day, so I got 4 cool ideas that I'll be working on 💡
+
+- terminaldaily.com - Terminal tips and tricks that makes your life 3000 times better, served hot and fresh everyday. (Bought the domain!)
+
+- gitgarden.io/100daysofcode (Git Garden Challenge)
+
+  - Will create a challenge page to display the progress of #100DaysOfCode participants to see how far they've come.
+
+  - Will make some updates to core Git Garden as well; might post it on Reddit or Product Hunt soon?
+
+- duty.phoom.in.th (EventDuty) - Duty Manager for Event and Camp Staffs using the MC/OD method. You can view your queue and make changes to the duty on-the-fly.
+
+- chill.phoom.in.th - Helps people in my "Teach 'n Chill" community project to create their own study groups for the topics they wanted to learn, and everyone can join or volunteer to be a teacher for that group.
+
+There'll be more algorithm and data structure-oriented learning and teaching projects coming soon too 😉
+
+**Link(s) to work**:
+
+1. https://github.com/phoomparin/100-days-of-code
+2. https://github.com/phoomparin/eventduty
+3. https://github.com/phoomparin/gitgarden.io
