@@ -74,7 +74,7 @@ Taught middle-schoolers introduction to Python, C, Flask, Linux, Cloud Infrastru
 
 Project-based learning is super fun when the students are really into it! Gotta wrote even more code tomorrow! https://twitter.com/phoomparin/status/1129418193989033984/photo/1
 
-## Day 3: Saturday - May 17, 2019
+## Day 3: Saturday - May 18, 2019
 
 **Today's Progress**:
 
