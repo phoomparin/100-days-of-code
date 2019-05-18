@@ -63,3 +63,42 @@ There'll be more algorithm and data structure-oriented learning and teaching pro
 1. https://github.com/phoomparin/100-days-of-code
 2. https://github.com/phoomparin/eventduty
 3. https://github.com/phoomparin/gitgarden.io
+
+## Day 2: Friday - May 17, 2019
+
+**Today's Progress**:
+
+Taught middle-schoolers introduction to Python, C, Flask, Linux, Cloud Infrastructure, MATT, CoLab and GPIO for their IoT Project 🎄
+
+**Thoughts**:
+
+Project-based learning is super fun when the students are really into it! Gotta wrote even more code tomorrow! https://twitter.com/phoomparin/status/1129418193989033984/photo/1
+
+## Day 3: Saturday - May 17, 2019
+
+**Today's Progress**:
+
+Introduced IoT programming to middle-schoolers! Getting their hands dirty with Python, C, MQTT, GPIO, Raspberry Pi, Arduino and a bunch of sensors and switches 🤖
+
+They ended up installing linux distros (eOS & Mint) on their laptop afterwards! 🦄 https://twitter.com/phoomparin/status/1129688875670986754/video/1
+
+**Thoughts**:
+
+It's the most fun class I've ever taught!
+
+This time, I try out project-based learning: I asked what projects they wanted to make,
+what are the features and components, and what do they want to know in order to
+accomplish that project.
+
+The entirety of the class is entirely based on their interests, no preparations needed.
+
+I think PBL encourages a TON of discussion; we've talked and shared a lot of things,
+much more than what normal classes ever could. I'll always use PBL from now on
+in classes smaller than 6 students.
+
+Most of today's classes are about Linux Fundamentals and Python for IoT; We've tried out
+Flask, GPIO, MQTT, as well as CLI tools like netcat, ipython, vscode and tmux.
+
+In our discussion, we've discussed why mathematics are important with Shadertoy, how interplanetary engineering work with the AGC (Apollo Guidance Computer) Simulator...
+
+The coolest thing is after I've told them about Linux, they went back home and installed linux distros (Mint and eOS), and I'm super happy!
