@@ -76,6 +76,9 @@ There'll be more algorithm and data structure-oriented learning and teaching pro
 
 - Facebook: https://www.facebook.com/photo.php?fbid=639730323159111&set=a.191691881296293&type=3
 
+- Terminal Daily on Facebook:
+  https://www.facebook.com/phoomparin.mano/posts/637935483338595
+
 ## Day 3: Friday - May 17, 2019
 
 **Today's Progress**:
