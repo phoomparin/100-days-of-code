@@ -31,7 +31,6 @@
 **Posts**:
 
 - Twitter: https://twitter.com/phoomparin/status/1129069323467681792
-
 - Facebook: https://www.facebook.com/phoomparin.mano/posts/639519869846823
 
 ## Day 2: Thursday - May 16, 2019
@@ -73,9 +72,7 @@ There'll be more algorithm and data structure-oriented learning and teaching pro
 **Posts**:
 
 - Twitter: https://twitter.com/phoomparin/status/1129072432508051456
-
 - Facebook: https://www.facebook.com/photo.php?fbid=639730323159111&set=a.191691881296293&type=3
-
 - Terminal Daily on Facebook:
   https://www.facebook.com/phoomparin.mano/posts/637935483338595
 
@@ -122,10 +119,9 @@ In our discussion, we've discussed why mathematics are important with Shadertoy,
 
 The coolest thing is after I've told them about Linux, they went back home and installed linux distros (Mint and eOS), and I'm super happy!
 
-**Posts**
+**Posts**:
 
 - Twitter: https://twitter.com/phoomparin/status/1129688875670986754
-
 - Facebook: https://www.facebook.com/phoomparin.mano/posts/640815223050621
 
 ## Day 5: Sunday - May 19, 2019
@@ -154,5 +150,4 @@ While I'm teaching Flutter, I found out lots of issues related to Windows on the
 **Posts**:
 
 - Twitter: https://twitter.com/phoomparin/status/1130161331766611968
-
 - Facebook: https://www.facebook.com/groups/443353719566700/permalink/445649946003744
