@@ -28,6 +28,12 @@
 2. https://github.com/phoomparin/hello-csharp
 3. https://github.com/phoomparin/java-lab
 
+**Posts**:
+
+- Twitter: https://twitter.com/phoomparin/status/1129069323467681792
+
+- Facebook: https://www.facebook.com/phoomparin.mano/posts/639519869846823
+
 ## Day 2: Thursday - May 16, 2019
 
 **Today's Progress**:
@@ -64,6 +70,12 @@ There'll be more algorithm and data structure-oriented learning and teaching pro
 2. https://github.com/phoomparin/eventduty
 3. https://github.com/phoomparin/gitgarden.io
 
+**Posts**:
+
+- Twitter: https://twitter.com/phoomparin/status/1129072432508051456
+
+- Facebook: https://www.facebook.com/photo.php?fbid=639730323159111&set=a.191691881296293&type=3
+
 ## Day 3: Friday - May 17, 2019
 
 **Today's Progress**:
@@ -73,6 +85,10 @@ Taught middle-schoolers introduction to Python, C, Flask, Linux, Cloud Infrastru
 **Thoughts**:
 
 Project-based learning is super fun when the students are really into it! Gotta wrote even more code tomorrow! https://twitter.com/phoomparin/status/1129418193989033984/photo/1
+
+**Posts**:
+
+- Twitter: https://twitter.com/phoomparin/status/1129418193989033984
 
 ## Day 4: Saturday - May 18, 2019
 
@@ -103,6 +119,12 @@ In our discussion, we've discussed why mathematics are important with Shadertoy,
 
 The coolest thing is after I've told them about Linux, they went back home and installed linux distros (Mint and eOS), and I'm super happy!
 
+**Posts**
+
+- Twitter: https://twitter.com/phoomparin/status/1129688875670986754
+
+- Facebook: https://www.facebook.com/phoomparin.mano/posts/640815223050621
+
 ## Day 5: Sunday - May 19, 2019
 
 **Today's Progress**:
@@ -125,3 +147,9 @@ While I'm teaching Flutter, I found out lots of issues related to Windows on the
 
 1. https://github.com/phoomparin/eventduty
 2. https://github.com/phoomparin/flutter-chill-lab
+
+**Posts**:
+
+- Twitter: https://twitter.com/phoomparin/status/1130161331766611968
+
+- Facebook: https://www.facebook.com/groups/443353719566700/permalink/445649946003744
