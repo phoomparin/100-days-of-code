@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 0: Wednesday - May 15, 2019
+## Day 1: Wednesday - May 15, 2019
 
 **Today's Progress**:
 
@@ -28,7 +28,7 @@
 2. https://github.com/phoomparin/hello-csharp
 3. https://github.com/phoomparin/java-lab
 
-## Day 1: Thursday - May 16, 2019
+## Day 2: Thursday - May 16, 2019
 
 **Today's Progress**:
 
@@ -64,7 +64,7 @@ There'll be more algorithm and data structure-oriented learning and teaching pro
 2. https://github.com/phoomparin/eventduty
 3. https://github.com/phoomparin/gitgarden.io
 
-## Day 2: Friday - May 17, 2019
+## Day 3: Friday - May 17, 2019
 
 **Today's Progress**:
 
@@ -74,7 +74,7 @@ Taught middle-schoolers introduction to Python, C, Flask, Linux, Cloud Infrastru
 
 Project-based learning is super fun when the students are really into it! Gotta wrote even more code tomorrow! https://twitter.com/phoomparin/status/1129418193989033984/photo/1
 
-## Day 3: Saturday - May 18, 2019
+## Day 4: Saturday - May 18, 2019
 
 **Today's Progress**:
 
