@@ -102,3 +102,26 @@ Flask, GPIO, MQTT, as well as CLI tools like netcat, ipython, vscode and tmux.
 In our discussion, we've discussed why mathematics are important with Shadertoy, how interplanetary engineering work with the AGC (Apollo Guidance Computer) Simulator...
 
 The coolest thing is after I've told them about Linux, they went back home and installed linux distros (Mint and eOS), and I'm super happy!
+
+## Day 5: Sunday - May 19, 2019
+
+**Today's Progress**:
+
+1. Wrote a web-app to help event organizers manage their current queues and time-slots for using React and TypeScript 🏕️
+
+> I wrote a time-slot system and queue display in my EventDuty project with React, Parcel and TypeScript, which helps organizers to manage their events and camps more smoothly.
+
+2. Built a sample app using Flutter to list food menus in Maid Cafes to teach my intro to Flutter class 👧🏻
+
+> Today, we've used the Maidreamin Maid Cafe API to list their food menus via Flutter in my Flutter 101 class, the third class of my "Teach 'n Chill" community project.
+
+**Thoughts**:
+
+I've found out that I tend to experiment a lot in Quokka playgrounds to test if my code-ideas would work out. I think if I made those "experiments" become Unit Tests, I'd be able to experiment much faster while easily ensuring that our business logic does not break down.
+
+While I'm teaching Flutter, I found out lots of issues related to Windows on the students' machine to the point that it is horrendously unbearable. Environment Variable breaks down, Android Emulator crashes, unsuccessful ADB connections, program crashes and lots of weird stuff. I'll have to restrict students to use either Linux or macOS only next time...
+
+**Link(s) to work**:
+
+1. https://github.com/phoomparin/eventduty
+2. https://github.com/phoomparin/flutter-chill-lab
