@@ -170,6 +170,10 @@ wrote some code to compute the next time-slot in events. Given 24:00, it was sup
 
 As writing code with Jest, TypeScript and Wallaby is so satisfying, I'm gonna keep writing tests from now on!
 
+**Link(s) to work**:
+
+- https://github.com/phoomparin/eventduty
+
 **Posts**:
 
 - Twitter:
