@@ -151,3 +151,32 @@ While I'm teaching Flutter, I found out lots of issues related to Windows on the
 
 - Twitter: https://twitter.com/phoomparin/status/1130161331766611968
 - Facebook: https://www.facebook.com/groups/443353719566700/permalink/445649946003744
+
+## Day 6: Monday - May 20, 2019
+
+**Today's Progress**:
+
+Wrote my first test in the event-duty project using Jest, TypeScript, and Wallaby, and immediately found a bug within the first minute! 😲
+
+I just got Wallaby today, and I'm seriously impressed with its real-time testing! Gotta write tests from now on.
+
+**Thoughts**:
+
+Yesterday, I've noticed that I test my code ideas in the Quokka Playground in order to test if those ideas would work out, and
+I believe they could be easily turned into tests! So, today I wrote my first test.
+
+A couple of minutes in, and there goes my first bug. I
+wrote some code to compute the next time-slot in events. Given 24:00, it was supposed to return return 00:05 since the camps are organized across days (e.g. my Young Creator's Camp) in which we does have night consulting or staff meeting. However, the code returns 24:05!
+
+As writing code with Jest, TypeScript and Wallaby is so satisfying, I'm gonna keep writing tests from now on!
+
+**Posts**:
+
+- Twitter:
+  https://twitter.com/phoomparin/status/1130401174513840129
+
+- Facebook:
+  https://www.facebook.com/phoomparin.mano/posts/642028106262666
+
+- Facebook (Group):
+  https://www.facebook.com/groups/443353719566700/permalink/445991602636245/
