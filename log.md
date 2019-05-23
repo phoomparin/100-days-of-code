@@ -184,3 +184,41 @@ As writing code with Jest, TypeScript and Wallaby is so satisfying, I'm gonna ke
 
 - Facebook (Group):
   https://www.facebook.com/groups/443353719566700/permalink/445991602636245/
+
+## Day 7: Tuesday - May 21, 2019
+
+**Today's Progress**:
+
+Refactored some React components in the EventDuty project. Will make the sequences draggable tomorrow. https://twitter.com/phoomparin/status/1130833319300460545/photo/1
+
+**Posts**:
+
+- Twitter:
+  https://twitter.com/phoomparin/status/1130833319300460545
+
+## Day 8: Wednesday - May 22, 2019
+
+**Today's Progress**:
+
+Experimented with the Bazel build tools to see if’d fit my use cases. 📦
+
+Being able to build for multiple languages using the same build tool is really neat!
+
+Gonna try out GraalVM next to see if it’d be possible to interoperate between languages. https://twitter.com/phoomparin/status/1131192964179419138/photo/1
+
+**Posts**:
+
+- Twitter: https://twitter.com/phoomparin/status/1131192964179419138
+
+## Day 9: Thursday - May 23, 2019
+
+**Today's Progress**:
+
+Wrote a PID Controller in Python, then plot and animate the graph in PyPlot to see how the graph changes when the proportional, integral and derivative gain changes over time! https://twitter.com/phoomparin/status/1131423677931589632/video/1
+
+**Posts**:
+
+- Twitter:
+  https://twitter.com/phoomparin/status/1131423677931589632
+
+- Facebook (Group): https://web.facebook.com/groups/443353719566700/permalink/447460189156053/
