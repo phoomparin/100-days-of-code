@@ -222,3 +222,46 @@ Wrote a PID Controller in Python, then plot and animate the graph in PyPlot to s
   https://twitter.com/phoomparin/status/1131423677931589632
 
 - Facebook (Group): https://web.facebook.com/groups/443353719566700/permalink/447460189156053/
+
+## Day 10: Monday - May 24, 2019
+
+**Today's Progress**:
+
+Initialized the https://terminaldaily.com project with VuePress! Made a custom terminal component that looks like an actual terminal. Will wrote my first content soon.
+
+**Link(s) to work**:
+
+- https://github.com/phoomparin/terminaldaily.com
+
+## Day 11: Monday - June 3, 2019
+
+**Today's Progress**:
+
+Wrote a OSINT (Open Source Intelligence) tool to gather as much as possible information from a target, codenamed Clairvoyant. It's written in TypeScript and uses Google's Custom Search JSON API.
+
+**Link(s) to work**:
+
+- https://github.com/phoomparin/clairvoyant
+
+## Day 12: Tuesday - June 4, 2019
+
+**Today's Progress**:
+
+วันนี้เขียน Utility ง่ายๆ ใน Go เอาไว้สร้างไฟล์ JPEG ขนาดใหญ่มากๆ เอาไว้ใช้เวลาทำ stress test กับลองเล่น gorm ที่เป็น ORM ในภาษา Go ครับ 📸
+
+**Thoughts**:
+
+ส่วนตัวคิดว่า Go เป็นอะไรที่เหมาะกับการเขียนอะไรทั่วไปมากๆ ยิ่งเฉพาะโปรแกรมหรือ script ที่ต้องการ performance ในระดับนึง เช่น DevOps tooling หรือทำ image processing ชีวิตจะดีมาก เขียนเพลินดี
+
+แต่ในทางกลับกัน ถ้าจะเขียนอะไรที่ต้องเล่นกับ data หลากหลาย รู้สึกว่า type system กับ abstractions ยังจำกัดเกินไป คิดว่าแนวนั้น TypeScript หรือ Clojure เหมาะกว่ามากๆ
+
+ตอนนี้ใช้ IntelliJ IDEA เขียนทุกอย่าง เท่าที่ดูคือพอเอามาเขียน Go ชีวิตดีขึ้นเยอะ ยิ่ง JetBrains มี database tools ที่ดีมากๆ ทำได้ในระดับที่ autocomplete ข้อมูลใน database (e.g. fields/tables) ลงในโค้ด Go ที่เป็น string นี่เขียนชิวมาก
+
+ส่วน gorm รู้สึกว่าเหมาะกับทำงานเล็กๆ ถึงปานกลางมาก ดูแล้วถ้าต้องทำ CLI ที่ต้องเก็บข้อมูลที่ซับซ้อนระดับนึงลง sqlite น่าจะใช้ gorm ได้ชิวๆ เลย
+
+**Link(s) to work**:
+
+- https://github.com/phoomparin/largeimage
+- https://github.com/phoomparin/corridor
+
+## Day 13: Wednesday - June 5, 2019
