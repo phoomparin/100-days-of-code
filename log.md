@@ -233,7 +233,26 @@ Initialized the https://terminaldaily.com project with VuePress! Made a custom t
 
 - https://github.com/phoomparin/terminaldaily.com
 
-## Day 11: Monday - June 3, 2019
+## Day 11: Thursday - May 30, 2019
+
+**Today's Progress**:
+
+วันนี้ทำเว็บเอาไว้หาความหมายจากเลขบัตรประชาชนครับ~
+
+เพิ่มข้อมูลตรงจังหวัด และเขต/อำเภอที่เกิด กับเช็ค checksum ว่าถูกต้องไหมเรียบร้อยฮะ น่าจะเกือบครบแล้วว
+
+**Thoughts**:
+
+เห็นหลายๆ คนยังไม่รู้ว่าเลขแต่ละหลักในบัตรประชาชนมีความหมายอะไร เราเลยทำเว็บง่ายๆ เอาไว้อ่านความหมายของบัตรประชาชนดู
+
+ตอนนี้ทำไว้แค่ถึงหลักที่สอง กำลังทำให้ครบทุกหลักครับบ เดี๋ยวจะแยกเป็น library ขึ้น NPM พร้อมเขียนเทสต์ด้วย
+
+**Link(s) to work**:
+
+Web: https://id.phoom.in.th
+GitHub: https://github.com/phoomparin/national-id-meaning
+
+## Day 12: Monday - June 3, 2019
 
 **Today's Progress**:
 
@@ -243,7 +262,7 @@ Wrote a OSINT (Open Source Intelligence) tool to gather as much as possible info
 
 - https://github.com/phoomparin/clairvoyant
 
-## Day 12: Tuesday - June 4, 2019
+## Day 13: Tuesday - June 4, 2019
 
 **Today's Progress**:
 
@@ -264,4 +283,4 @@ Wrote a OSINT (Open Source Intelligence) tool to gather as much as possible info
 - https://github.com/phoomparin/largeimage
 - https://github.com/phoomparin/corridor
 
-## Day 13: Wednesday - June 5, 2019
+## Day 14: Wednesday - June 5, 2019
