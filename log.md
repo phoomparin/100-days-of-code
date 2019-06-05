@@ -284,3 +284,17 @@ Wrote a OSINT (Open Source Intelligence) tool to gather as much as possible info
 - https://github.com/phoomparin/corridor
 
 ## Day 14: Wednesday - June 5, 2019
+
+**Today's Progress**:
+
+Created a website to countdown to the day Prayuth Chan O-Cha leaves the office, https://howlonguntilprayuthleaves.com
+
+**Thoughts**:
+
+Creating a fully-functional, responsive and sharing-ready site from idea to production within 30 minutes is absolutely doable these days! A combination of CSS Grids, Google Fonts, Netlify, Namecheap and pure HTML/CSS/JS works really well for a simple 30-minute site like this.
+
+Also, https://metatags.io is really helpful when you don't have time to memorize the meta tags.
+
+**Link(s) to work**:
+
+- https://github.com/phoomparin/howlonguntilprayuthleaves.com
